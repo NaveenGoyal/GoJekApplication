@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data>
+        <import type="android.view.View"/>
+        <import type="android.view.View.OnClickListener"/>
+        <variable
+            name="model"
+            type="com.demo.gojekapplication.viewmodel.TrendingListViewModel" />
+        <variable
+            name="holder"
+            type="com.demo.gojekapplication.data.model.Repository" />
+        <variable
+            name="click_listener"
+            type="android.view.View.OnClickListener"/>
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cl_container"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="@{click_listener}"
+        app:specialTag="@{model}"
+        app:container="@{holder}"
+        >
+        <ImageView
+            android:layout_margin="20dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_avatar"
+            app:layout_constraintStart_toStartOf="@id/cl_container"
+            app:layout_constraintTop_toTopOf="@id/cl_container"
+            app:layout_constraintLeft_toLeftOf="@id/cl_container"
+            app:userAvatar="@{holder}"
+            />
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            style="@style/text_regular"
+            app:layout_constraintLeft_toRightOf="@id/iv_avatar"
+            app:layout_constraintTop_toTopOf="@id/iv_avatar"
+            app:userName="@{holder}"
+            />
+
+        <TextView
+            android:id="@+id/repo_name"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="16dp"
+            style="@style/text_medium"
+            android:layout_marginTop="8dp"
+            android:paddingRight="16dp"
+            app:layout_constraintLeft_toRightOf="@id/iv_avatar"
+            app:layout_constraintTop_toBottomOf="@id/user_name"
+            android:paddingBottom="16dp"
+            app:layout_constraintBottom_toTopOf="@id/tv_repository_description"
+            app:repoName="@{holder}"
+            />
+
+        <TextView
+            android:layout_marginLeft="16dp"
+            android:paddingRight="16dp"
+            android:layout_marginRight="16dp"
+            android:id="@+id/tv_repository_description"
+            style="@style/ping_text_regular"
+            app:layout_constraintLeft_toRightOf="@id/iv_avatar"
+            app:layout_constraintTop_toBottomOf="@id/repo_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintRight_toRightOf="parent"
+            android:paddingBottom="1dp"
+            android:visibility="gone"
+            app:repoDescription="@{holder}"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_language"
+            android:drawableLeft="@drawable/drawable_circle"
+            app:layout_constraintTop_toBottomOf="@id/tv_repository_description"
+            app:layout_constraintLeft_toRightOf="@id/iv_avatar"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:drawablePadding="4dp"
+            android:paddingBottom="16dp"
+            android:visibility="gone"
+            app:language="@{holder}"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_stars"
+            app:layout_constraintTop_toBottomOf="@id/tv_repository_description"
+            app:layout_constraintLeft_toRightOf="@id/tv_language"
+            android:drawableLeft="@drawable/star_yellow"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:drawablePadding="4dp"
+            android:paddingBottom="16dp"
+            android:visibility="gone"
+            app:stars="@{holder}"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/forks"
+            app:layout_constraintTop_toBottomOf="@id/tv_repository_description"
+            app:layout_constraintLeft_toRightOf="@id/tv_stars"
+            android:drawableLeft="@drawable/fork_black"
+            android:drawablePadding="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:paddingBottom="16dp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toTopOf="@id/seperator"
+            app:forks="@{holder}"/>
+            />
+
+        <View
+            android:outlineProvider="paddedBounds"
+            android:layout_marginTop="16dp"
+            android:id="@+id/seperator"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:background="#E8E8E8"
+            app:seperator="@{holder}">
+
+        </View>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

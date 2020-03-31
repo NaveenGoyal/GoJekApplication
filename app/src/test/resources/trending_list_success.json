@@ -1,0 +1,928 @@
+[
+  {
+    "author": "quantopian",
+    "name": "zipline",
+    "avatar": "https://github.com/quantopian.png",
+    "url": "https://github.com/quantopian/zipline",
+    "description": "Zipline, a Pythonic Algorithmic Trading Library",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 9727,
+    "forks": 2962,
+    "currentPeriodStars": 76,
+    "builtBy": [
+      {
+        "username": "ehebert",
+        "href": "https://github.com/ehebert",
+        "avatar": "https://avatars1.githubusercontent.com/u/185744"
+      },
+      {
+        "username": "ssanderson",
+        "href": "https://github.com/ssanderson",
+        "avatar": "https://avatars2.githubusercontent.com/u/1588357"
+      },
+      {
+        "username": "fawce",
+        "href": "https://github.com/fawce",
+        "avatar": "https://avatars1.githubusercontent.com/u/733440"
+      },
+      {
+        "username": "llllllllll",
+        "href": "https://github.com/llllllllll",
+        "avatar": "https://avatars2.githubusercontent.com/u/3064397"
+      },
+      {
+        "username": "richafrank",
+        "href": "https://github.com/richafrank",
+        "avatar": "https://avatars3.githubusercontent.com/u/2123660"
+      }
+    ]
+  },
+  {
+    "author": "2227324689",
+    "name": "gpmall",
+    "avatar": "https://github.com/2227324689.png",
+    "url": "https://github.com/2227324689/gpmall",
+    "description": "【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "stars": 2011,
+    "forks": 748,
+    "currentPeriodStars": 63,
+    "builtBy": [
+      {
+        "username": "2227324689",
+        "href": "https://github.com/2227324689",
+        "avatar": "https://avatars0.githubusercontent.com/u/52684867"
+      },
+      {
+        "username": "hepengshuai",
+        "href": "https://github.com/hepengshuai",
+        "avatar": "https://avatars2.githubusercontent.com/u/28009034"
+      },
+      {
+        "username": "tufeng1992",
+        "href": "https://github.com/tufeng1992",
+        "avatar": "https://avatars1.githubusercontent.com/u/12758480"
+      },
+      {
+        "username": "oahnus",
+        "href": "https://github.com/oahnus",
+        "avatar": "https://avatars3.githubusercontent.com/u/19245696"
+      },
+      {
+        "username": "jerry-sk",
+        "href": "https://github.com/jerry-sk",
+        "avatar": "https://avatars1.githubusercontent.com/u/47777359"
+      }
+    ]
+  },
+  {
+    "author": "sinclairzx81",
+    "name": "zero",
+    "avatar": "https://github.com/sinclairzx81.png",
+    "url": "https://github.com/sinclairzx81/zero",
+    "description": "3D graphics rendering pipeline. Implemented in JavaScript. Run in a terminal.",
+    "language": "TypeScript",
+    "languageColor": "#2b7489",
+    "stars": 577,
+    "forks": 12,
+    "currentPeriodStars": 153,
+    "builtBy": [
+      {
+        "username": "sinclairzx81",
+        "href": "https://github.com/sinclairzx81",
+        "avatar": "https://avatars3.githubusercontent.com/u/3048342"
+      }
+    ]
+  },
+  {
+    "author": "ripienaar",
+    "name": "free-for-dev",
+    "avatar": "https://github.com/ripienaar.png",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "languageColor": "#e34c26",
+    "stars": 26149,
+    "forks": 2787,
+    "currentPeriodStars": 474,
+    "builtBy": [
+      {
+        "username": "ripienaar",
+        "href": "https://github.com/ripienaar",
+        "avatar": "https://avatars3.githubusercontent.com/u/82342"
+      },
+      {
+        "username": "jarikmarwede",
+        "href": "https://github.com/jarikmarwede",
+        "avatar": "https://avatars0.githubusercontent.com/u/33765260"
+      },
+      {
+        "username": "TraderStf",
+        "href": "https://github.com/TraderStf",
+        "avatar": "https://avatars3.githubusercontent.com/u/5954335"
+      },
+      {
+        "username": "Reubend",
+        "href": "https://github.com/Reubend",
+        "avatar": "https://avatars1.githubusercontent.com/u/13208038"
+      },
+      {
+        "username": "clarmso",
+        "href": "https://github.com/clarmso",
+        "avatar": "https://avatars1.githubusercontent.com/u/1740517"
+      }
+    ]
+  },
+  {
+    "author": "bregman-arie",
+    "name": "devops-interview-questions",
+    "avatar": "https://github.com/bregman-arie.png",
+    "url": "https://github.com/bregman-arie/devops-interview-questions",
+    "description": "Linux, Jenkins, AWS, Network, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "language": "Groovy",
+    "languageColor": "#e69f56",
+    "stars": 1092,
+    "forks": 111,
+    "currentPeriodStars": 325,
+    "builtBy": [
+      {
+        "username": "bregman-arie",
+        "href": "https://github.com/bregman-arie",
+        "avatar": "https://avatars3.githubusercontent.com/u/10349437"
+      },
+      {
+        "username": "surister",
+        "href": "https://github.com/surister",
+        "avatar": "https://avatars3.githubusercontent.com/u/37985796"
+      },
+      {
+        "username": "AhGhanima",
+        "href": "https://github.com/AhGhanima",
+        "avatar": "https://avatars3.githubusercontent.com/u/25593897"
+      },
+      {
+        "username": "zdj21jdz",
+        "href": "https://github.com/zdj21jdz",
+        "avatar": "https://avatars1.githubusercontent.com/u/9626723"
+      },
+      {
+        "username": "ismferd",
+        "href": "https://github.com/ismferd",
+        "avatar": "https://avatars3.githubusercontent.com/u/13453208"
+      }
+    ]
+  },
+  {
+    "author": "mitesh77",
+    "name": "Best-Flutter-UI-Templates",
+    "avatar": "https://github.com/mitesh77.png",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "description": "completely free for everyone. Its build-in Flutter Dart.",
+    "language": "Dart",
+    "languageColor": "#00B4AB",
+    "stars": 3754,
+    "forks": 664,
+    "currentPeriodStars": 212,
+    "builtBy": [
+      {
+        "username": "mitesh77",
+        "href": "https://github.com/mitesh77",
+        "avatar": "https://avatars1.githubusercontent.com/u/38649435"
+      },
+      {
+        "username": "IAmSarthakVerma",
+        "href": "https://github.com/IAmSarthakVerma",
+        "avatar": "https://avatars3.githubusercontent.com/u/20480867"
+      },
+      {
+        "username": "stonestorage",
+        "href": "https://github.com/stonestorage",
+        "avatar": "https://avatars0.githubusercontent.com/u/56184661"
+      }
+    ]
+  },
+  {
+    "author": "trimstray",
+    "name": "nginx-admins-handbook",
+    "avatar": "https://github.com/trimstray.png",
+    "url": "https://github.com/trimstray/nginx-admins-handbook",
+    "description": "How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.",
+    "language": "Shell",
+    "languageColor": "#89e051",
+    "stars": 10072,
+    "forks": 713,
+    "currentPeriodStars": 49,
+    "builtBy": [
+      {
+        "username": "trimstray",
+        "href": "https://github.com/trimstray",
+        "avatar": "https://avatars1.githubusercontent.com/u/31127917"
+      },
+      {
+        "username": "VirtuBox",
+        "href": "https://github.com/VirtuBox",
+        "avatar": "https://avatars3.githubusercontent.com/u/11673784"
+      },
+      {
+        "username": "zumoshi",
+        "href": "https://github.com/zumoshi",
+        "avatar": "https://avatars1.githubusercontent.com/u/4184939"
+      },
+      {
+        "username": "cmbankester",
+        "href": "https://github.com/cmbankester",
+        "avatar": "https://avatars3.githubusercontent.com/u/337779"
+      },
+      {
+        "username": "panckreous",
+        "href": "https://github.com/panckreous",
+        "avatar": "https://avatars1.githubusercontent.com/u/208280"
+      }
+    ]
+  },
+  {
+    "author": "donnemartin",
+    "name": "data-science-ipython-notebooks",
+    "avatar": "https://github.com/donnemartin.png",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 17355,
+    "forks": 5337,
+    "currentPeriodStars": 20,
+    "builtBy": [
+      {
+        "username": "donnemartin",
+        "href": "https://github.com/donnemartin",
+        "avatar": "https://avatars0.githubusercontent.com/u/5458997"
+      },
+      {
+        "username": "besirkurtulmus",
+        "href": "https://github.com/besirkurtulmus",
+        "avatar": "https://avatars1.githubusercontent.com/u/5170389"
+      },
+      {
+        "username": "amarrella",
+        "href": "https://github.com/amarrella",
+        "avatar": "https://avatars0.githubusercontent.com/u/1425877"
+      },
+      {
+        "username": "AnishShah",
+        "href": "https://github.com/AnishShah",
+        "avatar": "https://avatars3.githubusercontent.com/u/3175743"
+      },
+      {
+        "username": "38elements",
+        "href": "https://github.com/38elements",
+        "avatar": "https://avatars1.githubusercontent.com/u/2399132"
+      }
+    ]
+  },
+  {
+    "author": "yifeikong",
+    "name": "reverse-interview-zh",
+    "avatar": "https://github.com/yifeikong.png",
+    "url": "https://github.com/yifeikong/reverse-interview-zh",
+    "description": "技术面试最后反问面试官的话",
+    "stars": 4112,
+    "forks": 312,
+    "currentPeriodStars": 282,
+    "builtBy": [
+      {
+        "username": "yifeikong",
+        "href": "https://github.com/yifeikong",
+        "avatar": "https://avatars2.githubusercontent.com/u/1035487"
+      },
+      {
+        "username": "ifrontend-xyz",
+        "href": "https://github.com/ifrontend-xyz",
+        "avatar": "https://avatars2.githubusercontent.com/u/1844777"
+      },
+      {
+        "username": "evillt",
+        "href": "https://github.com/evillt",
+        "avatar": "https://avatars3.githubusercontent.com/u/19513289"
+      },
+      {
+        "username": "GoldArowana",
+        "href": "https://github.com/GoldArowana",
+        "avatar": "https://avatars2.githubusercontent.com/u/27399349"
+      },
+      {
+        "username": "KristinLee1997",
+        "href": "https://github.com/KristinLee1997",
+        "avatar": "https://avatars2.githubusercontent.com/u/26243563"
+      }
+    ]
+  },
+  {
+    "author": "qazbnm456",
+    "name": "awesome-web-security",
+    "avatar": "https://github.com/qazbnm456.png",
+    "url": "https://github.com/qazbnm456/awesome-web-security",
+    "description": "🐶 A curated list of Web Security materials and resources.",
+    "stars": 3608,
+    "forks": 727,
+    "currentPeriodStars": 86,
+    "builtBy": [
+      {
+        "username": "qazbnm456",
+        "href": "https://github.com/qazbnm456",
+        "avatar": "https://avatars0.githubusercontent.com/u/6451933"
+      },
+      {
+        "username": "0xInfection",
+        "href": "https://github.com/0xInfection",
+        "avatar": "https://avatars1.githubusercontent.com/u/39941993"
+      },
+      {
+        "username": "okiwan",
+        "href": "https://github.com/okiwan",
+        "avatar": "https://avatars0.githubusercontent.com/u/567683"
+      },
+      {
+        "username": "servinlp",
+        "href": "https://github.com/servinlp",
+        "avatar": "https://avatars1.githubusercontent.com/u/7222029"
+      },
+      {
+        "username": "ZonkSec",
+        "href": "https://github.com/ZonkSec",
+        "avatar": "https://avatars2.githubusercontent.com/u/16696904"
+      }
+    ]
+  },
+  {
+    "author": "fuzzitdev",
+    "name": "jsfuzz",
+    "avatar": "https://github.com/fuzzitdev.png",
+    "url": "https://github.com/fuzzitdev/jsfuzz",
+    "description": "coverage guided fuzz testing for javascript",
+    "language": "TypeScript",
+    "languageColor": "#2b7489",
+    "stars": 275,
+    "forks": 14,
+    "currentPeriodStars": 45,
+    "builtBy": [
+      {
+        "username": "yevgenypats",
+        "href": "https://github.com/yevgenypats",
+        "avatar": "https://avatars2.githubusercontent.com/u/16490766"
+      },
+      {
+        "username": "kinow",
+        "href": "https://github.com/kinow",
+        "avatar": "https://avatars1.githubusercontent.com/u/304786"
+      }
+    ]
+  },
+  {
+    "author": "nvbn",
+    "name": "thefuck",
+    "avatar": "https://github.com/nvbn.png",
+    "url": "https://github.com/nvbn/thefuck",
+    "description": "Magnificent app which corrects your previous console command.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 49503,
+    "forks": 2457,
+    "currentPeriodStars": 178,
+    "builtBy": [
+      {
+        "username": "nvbn",
+        "href": "https://github.com/nvbn",
+        "avatar": "https://avatars2.githubusercontent.com/u/1114542"
+      },
+      {
+        "username": "mcarton",
+        "href": "https://github.com/mcarton",
+        "avatar": "https://avatars2.githubusercontent.com/u/3751788"
+      },
+      {
+        "username": "scorphus",
+        "href": "https://github.com/scorphus",
+        "avatar": "https://avatars2.githubusercontent.com/u/2112697"
+      },
+      {
+        "username": "josephfrazier",
+        "href": "https://github.com/josephfrazier",
+        "avatar": "https://avatars1.githubusercontent.com/u/6473925"
+      },
+      {
+        "username": "mlk",
+        "href": "https://github.com/mlk",
+        "avatar": "https://avatars0.githubusercontent.com/u/142099"
+      }
+    ]
+  },
+  {
+    "author": "vinta",
+    "name": "awesome-python",
+    "avatar": "https://github.com/vinta.png",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 74595,
+    "forks": 14660,
+    "currentPeriodStars": 139,
+    "builtBy": [
+      {
+        "username": "vinta",
+        "href": "https://github.com/vinta",
+        "avatar": "https://avatars0.githubusercontent.com/u/652070"
+      },
+      {
+        "username": "dhamaniasad",
+        "href": "https://github.com/dhamaniasad",
+        "avatar": "https://avatars1.githubusercontent.com/u/4560482"
+      },
+      {
+        "username": "vndmtrx",
+        "href": "https://github.com/vndmtrx",
+        "avatar": "https://avatars1.githubusercontent.com/u/596651"
+      },
+      {
+        "username": "ellisonleao",
+        "href": "https://github.com/ellisonleao",
+        "avatar": "https://avatars2.githubusercontent.com/u/178641"
+      },
+      {
+        "username": "Alir3z4",
+        "href": "https://github.com/Alir3z4",
+        "avatar": "https://avatars1.githubusercontent.com/u/591113"
+      }
+    ]
+  },
+  {
+    "author": "evilsocket",
+    "name": "pwnagotchi",
+    "avatar": "https://github.com/evilsocket.png",
+    "url": "https://github.com/evilsocket/pwnagotchi",
+    "description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 1798,
+    "forks": 204,
+    "currentPeriodStars": 219,
+    "builtBy": [
+      {
+        "username": "evilsocket",
+        "href": "https://github.com/evilsocket",
+        "avatar": "https://avatars3.githubusercontent.com/u/86922"
+      },
+      {
+        "username": "dadav",
+        "href": "https://github.com/dadav",
+        "avatar": "https://avatars0.githubusercontent.com/u/33197631"
+      },
+      {
+        "username": "caquino",
+        "href": "https://github.com/caquino",
+        "avatar": "https://avatars1.githubusercontent.com/u/55999"
+      },
+      {
+        "username": "hexwaxwing",
+        "href": "https://github.com/hexwaxwing",
+        "avatar": "https://avatars0.githubusercontent.com/u/26129437"
+      },
+      {
+        "username": "justin-p",
+        "href": "https://github.com/justin-p",
+        "avatar": "https://avatars3.githubusercontent.com/u/8249280"
+      }
+    ]
+  },
+  {
+    "author": "notadamking",
+    "name": "tensortrade",
+    "avatar": "https://github.com/notadamking.png",
+    "url": "https://github.com/notadamking/tensortrade",
+    "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 412,
+    "forks": 108,
+    "currentPeriodStars": 107,
+    "builtBy": [
+      {
+        "username": "notadamking",
+        "href": "https://github.com/notadamking",
+        "avatar": "https://avatars0.githubusercontent.com/u/14098106"
+      },
+      {
+        "username": "rshtirmer",
+        "href": "https://github.com/rshtirmer",
+        "avatar": "https://avatars1.githubusercontent.com/u/11638298"
+      },
+      {
+        "username": "dru-zod",
+        "href": "https://github.com/dru-zod",
+        "avatar": "https://avatars3.githubusercontent.com/u/31942247"
+      },
+      {
+        "username": "codeninja",
+        "href": "https://github.com/codeninja",
+        "avatar": "https://avatars2.githubusercontent.com/u/14914"
+      },
+      {
+        "username": "marcograss",
+        "href": "https://github.com/marcograss",
+        "avatar": "https://avatars0.githubusercontent.com/u/1010159"
+      }
+    ]
+  },
+  {
+    "author": "HMBSbige",
+    "name": "ShadowsocksR-Windows",
+    "avatar": "https://github.com/HMBSbige.png",
+    "url": "https://github.com/HMBSbige/ShadowsocksR-Windows",
+    "description": "【自用】Bug-Oriented Programming",
+    "language": "C#",
+    "languageColor": "#178600",
+    "stars": 1322,
+    "forks": 306,
+    "currentPeriodStars": 66,
+    "builtBy": [
+      {
+        "username": "clowwindy",
+        "href": "https://github.com/clowwindy",
+        "avatar": "https://avatars3.githubusercontent.com/u/1073082"
+      },
+      {
+        "username": "HMBSbige",
+        "href": "https://github.com/HMBSbige",
+        "avatar": "https://avatars3.githubusercontent.com/u/19153265"
+      },
+      {
+        "username": "breakwa11",
+        "href": "https://github.com/breakwa11",
+        "avatar": "https://avatars3.githubusercontent.com/u/8436963"
+      },
+      {
+        "username": "AkaneAkaza",
+        "href": "https://github.com/AkaneAkaza",
+        "avatar": "https://avatars3.githubusercontent.com/u/30916393"
+      },
+      {
+        "username": "Akkariiin",
+        "href": "https://github.com/Akkariiin",
+        "avatar": "https://avatars3.githubusercontent.com/u/30503034"
+      }
+    ]
+  },
+  {
+    "author": "vlang",
+    "name": "v",
+    "avatar": "https://github.com/vlang.png",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. 1.0 release in December 2019. https://vlang.io",
+    "language": "V",
+    "languageColor": "#5d87bd",
+    "stars": 12963,
+    "forks": 780,
+    "currentPeriodStars": 164,
+    "builtBy": [
+      {
+        "username": "medvednikov",
+        "href": "https://github.com/medvednikov",
+        "avatar": "https://avatars0.githubusercontent.com/u/687996"
+      },
+      {
+        "username": "joe-conigliaro",
+        "href": "https://github.com/joe-conigliaro",
+        "avatar": "https://avatars2.githubusercontent.com/u/2801678"
+      },
+      {
+        "username": "spytheman",
+        "href": "https://github.com/spytheman",
+        "avatar": "https://avatars2.githubusercontent.com/u/26967"
+      },
+      {
+        "username": "Henrixounez",
+        "href": "https://github.com/Henrixounez",
+        "avatar": "https://avatars3.githubusercontent.com/u/30901439"
+      },
+      {
+        "username": "vitalyster",
+        "href": "https://github.com/vitalyster",
+        "avatar": "https://avatars1.githubusercontent.com/u/1052407"
+      }
+    ]
+  },
+  {
+    "author": "magento",
+    "name": "magento2",
+    "avatar": "https://github.com/magento.png",
+    "url": "https://github.com/magento/magento2",
+    "description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli…",
+    "language": "PHP",
+    "languageColor": "#4F5D95",
+    "stars": 7923,
+    "forks": 6943,
+    "currentPeriodStars": 3,
+    "builtBy": [
+      {
+        "username": "magento-engcom-team",
+        "href": "https://github.com/magento-engcom-team",
+        "avatar": "https://avatars0.githubusercontent.com/u/31669971"
+      },
+      {
+        "username": "sidolov",
+        "href": "https://github.com/sidolov",
+        "avatar": "https://avatars1.githubusercontent.com/u/11355520"
+      },
+      {
+        "username": "okorshenko",
+        "href": "https://github.com/okorshenko",
+        "avatar": "https://avatars1.githubusercontent.com/u/7325075"
+      },
+      {
+        "username": "cpartica",
+        "href": "https://github.com/cpartica",
+        "avatar": "https://avatars2.githubusercontent.com/u/11950741"
+      },
+      {
+        "username": "irenelagno",
+        "href": "https://github.com/irenelagno",
+        "avatar": "https://avatars3.githubusercontent.com/u/7125318"
+      }
+    ]
+  },
+  {
+    "author": "probml",
+    "name": "pyprobml",
+    "avatar": "https://github.com/probml.png",
+    "url": "https://github.com/probml/pyprobml",
+    "description": "Python code for \"Machine learning: a probabilistic perspective\" (2nd edition)",
+    "language": "Jupyter Notebook",
+    "languageColor": "#DA5B0B",
+    "stars": 977,
+    "forks": 322,
+    "currentPeriodStars": 25,
+    "builtBy": [
+      {
+        "username": "murphyk",
+        "href": "https://github.com/murphyk",
+        "avatar": "https://avatars3.githubusercontent.com/u/4632336"
+      },
+      {
+        "username": "Duane321",
+        "href": "https://github.com/Duane321",
+        "avatar": "https://avatars3.githubusercontent.com/u/19956442"
+      },
+      {
+        "username": "jdf22",
+        "href": "https://github.com/jdf22",
+        "avatar": "https://avatars3.githubusercontent.com/u/1637094"
+      },
+      {
+        "username": "andrewnc",
+        "href": "https://github.com/andrewnc",
+        "avatar": "https://avatars2.githubusercontent.com/u/7716402"
+      },
+      {
+        "username": "thvasilo",
+        "href": "https://github.com/thvasilo",
+        "avatar": "https://avatars0.githubusercontent.com/u/9048995"
+      }
+    ]
+  },
+  {
+    "author": "json-iterator",
+    "name": "go",
+    "avatar": "https://github.com/json-iterator.png",
+    "url": "https://github.com/json-iterator/go",
+    "description": "A high-performance 100% compatible drop-in replacement of \"encoding/json\"",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 6095,
+    "forks": 529,
+    "currentPeriodStars": 46,
+    "builtBy": [
+      {
+        "username": "taowen",
+        "href": "https://github.com/taowen",
+        "avatar": "https://avatars2.githubusercontent.com/u/40541"
+      },
+      {
+        "username": "thockin",
+        "href": "https://github.com/thockin",
+        "avatar": "https://avatars0.githubusercontent.com/u/5595220"
+      },
+      {
+        "username": "cch123",
+        "href": "https://github.com/cch123",
+        "avatar": "https://avatars3.githubusercontent.com/u/384546"
+      },
+      {
+        "username": "toffaletti",
+        "href": "https://github.com/toffaletti",
+        "avatar": "https://avatars2.githubusercontent.com/u/145012"
+      },
+      {
+        "username": "olegshaldibin",
+        "href": "https://github.com/olegshaldibin",
+        "avatar": "https://avatars2.githubusercontent.com/u/8273"
+      }
+    ]
+  },
+  {
+    "author": "bayesgroup",
+    "name": "deepbayes-2019",
+    "avatar": "https://github.com/bayesgroup.png",
+    "url": "https://github.com/bayesgroup/deepbayes-2019",
+    "description": "Practical assignments of the Deep|Bayes summer school 2019",
+    "language": "Jupyter Notebook",
+    "languageColor": "#DA5B0B",
+    "stars": 374,
+    "forks": 91,
+    "currentPeriodStars": 15,
+    "builtBy": [
+      {
+        "username": "nadiinchi",
+        "href": "https://github.com/nadiinchi",
+        "avatar": "https://avatars0.githubusercontent.com/u/6854508"
+      },
+      {
+        "username": "tipt0p",
+        "href": "https://github.com/tipt0p",
+        "avatar": "https://avatars0.githubusercontent.com/u/9825869"
+      },
+      {
+        "username": "artsobolev",
+        "href": "https://github.com/artsobolev",
+        "avatar": "https://avatars2.githubusercontent.com/u/434122"
+      },
+      {
+        "username": "yeahrmek",
+        "href": "https://github.com/yeahrmek",
+        "avatar": "https://avatars1.githubusercontent.com/u/4017554"
+      },
+      {
+        "username": "senya-ashukha",
+        "href": "https://github.com/senya-ashukha",
+        "avatar": "https://avatars0.githubusercontent.com/u/10505555"
+      }
+    ]
+  },
+  {
+    "author": "rancher",
+    "name": "rancher",
+    "avatar": "https://github.com/rancher.png",
+    "url": "https://github.com/rancher/rancher",
+    "description": "Complete container management platform",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 12791,
+    "forks": 1467,
+    "currentPeriodStars": 23,
+    "builtBy": [
+      {
+        "username": "ibuildthecloud",
+        "href": "https://github.com/ibuildthecloud",
+        "avatar": "https://avatars1.githubusercontent.com/u/1754002"
+      },
+      {
+        "username": "alena1108",
+        "href": "https://github.com/alena1108",
+        "avatar": "https://avatars0.githubusercontent.com/u/1562176"
+      },
+      {
+        "username": "cjellick",
+        "href": "https://github.com/cjellick",
+        "avatar": "https://avatars3.githubusercontent.com/u/2473240"
+      },
+      {
+        "username": "kinarashah",
+        "href": "https://github.com/kinarashah",
+        "avatar": "https://avatars2.githubusercontent.com/u/16870565"
+      },
+      {
+        "username": "dramich",
+        "href": "https://github.com/dramich",
+        "avatar": "https://avatars2.githubusercontent.com/u/13897607"
+      }
+    ]
+  },
+  {
+    "author": "apache",
+    "name": "incubator-echarts",
+    "avatar": "https://github.com/apache.png",
+    "url": "https://github.com/apache/incubator-echarts",
+    "description": "A powerful, interactive charting and visualization library for browser",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 37177,
+    "forks": 11564,
+    "currentPeriodStars": 34,
+    "builtBy": [
+      {
+        "username": "100pah",
+        "href": "https://github.com/100pah",
+        "avatar": "https://avatars3.githubusercontent.com/u/1956569"
+      },
+      {
+        "username": "pissang",
+        "href": "https://github.com/pissang",
+        "avatar": "https://avatars2.githubusercontent.com/u/841551"
+      },
+      {
+        "username": "kener",
+        "href": "https://github.com/kener",
+        "avatar": "https://avatars0.githubusercontent.com/u/1711855"
+      },
+      {
+        "username": "Ovilia",
+        "href": "https://github.com/Ovilia",
+        "avatar": "https://avatars3.githubusercontent.com/u/779050"
+      },
+      {
+        "username": "deqingli",
+        "href": "https://github.com/deqingli",
+        "avatar": "https://avatars1.githubusercontent.com/u/13548221"
+      }
+    ]
+  },
+  {
+    "author": "zeit",
+    "name": "hyper",
+    "avatar": "https://github.com/zeit.png",
+    "url": "https://github.com/zeit/hyper",
+    "description": "A terminal built on web technologies",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 31409,
+    "forks": 2615,
+    "currentPeriodStars": 54,
+    "builtBy": [
+      {
+        "username": "rauchg",
+        "href": "https://github.com/rauchg",
+        "avatar": "https://avatars1.githubusercontent.com/u/13041"
+      },
+      {
+        "username": "chabou",
+        "href": "https://github.com/chabou",
+        "avatar": "https://avatars2.githubusercontent.com/u/4137761"
+      },
+      {
+        "username": "leo",
+        "href": "https://github.com/leo",
+        "avatar": "https://avatars1.githubusercontent.com/u/6170607"
+      },
+      {
+        "username": "matheuss",
+        "href": "https://github.com/matheuss",
+        "avatar": "https://avatars0.githubusercontent.com/u/4721750"
+      },
+      {
+        "username": "Stanzilla",
+        "href": "https://github.com/Stanzilla",
+        "avatar": "https://avatars2.githubusercontent.com/u/75278"
+      }
+    ]
+  },
+  {
+    "author": "moby",
+    "name": "moby",
+    "avatar": "https://github.com/moby.png",
+    "url": "https://github.com/moby/moby",
+    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 55217,
+    "forks": 15945,
+    "currentPeriodStars": 13,
+    "builtBy": [
+      {
+        "username": "thaJeztah",
+        "href": "https://github.com/thaJeztah",
+        "avatar": "https://avatars3.githubusercontent.com/u/1804568"
+      },
+      {
+        "username": "crosbymichael",
+        "href": "https://github.com/crosbymichael",
+        "avatar": "https://avatars2.githubusercontent.com/u/749551"
+      },
+      {
+        "username": "vieux",
+        "href": "https://github.com/vieux",
+        "avatar": "https://avatars3.githubusercontent.com/u/1032519"
+      },
+      {
+        "username": "cpuguy83",
+        "href": "https://github.com/cpuguy83",
+        "avatar": "https://avatars2.githubusercontent.com/u/799078"
+      },
+      {
+        "username": "LK4D4",
+        "href": "https://github.com/LK4D4",
+        "avatar": "https://avatars3.githubusercontent.com/u/101445"
+      }
+    ]
+  }
+]

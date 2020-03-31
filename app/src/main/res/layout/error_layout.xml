@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <data>
+        <import type="android.view.View" />
+        <variable
+            name="vm"
+            type="com.demo.gojekapplication.base.BaseViewModel" />
+    </data>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:background="@android:color/white"
+    android:visibility="@{safeUnbox(vm.isError) ? View.VISIBLE: View.GONE}"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/iv_no_internet"
+        android:layout_gravity="center"
+        android:src="@drawable/nointernet_connection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginTop="@dimen/error_title_top_margin"
+        android:id="@+id/tv_error_title"
+        android:gravity="center"
+        style="@style/error_title"
+        android:text="@string/something_went_wrong"
+        />
+    <TextView
+        android:layout_marginTop="@dimen/error_description_top_margin"
+        android:id="@+id/tv_error_description"
+        style="@style/error_description"
+        android:gravity="center"
+        android:text="@string/error_description_text"
+        />
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="bottom">
+        <Button
+            android:layout_gravity="bottom"
+            android:id="@+id/bt_retry"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:background="@drawable/retry_button_background"
+            android:text="@string/retry"
+            android:textSize="15dp"
+            android:textColor="#31B057"
+            android:layout_margin="@dimen/retry_margin"
+            android:layout_marginTop="@dimen/retry_top_margin"
+            android:onClick="@{()->vm.retryNow()}"
+            android:fontFamily="@font/roboto_medium"
+            android:layout_height="@dimen/retry_height" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+</layout>

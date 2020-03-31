@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="retry_top_margin">30dp</dimen>
+    <dimen name="margin_top_user_name">16dp</dimen>
+    <dimen name="margin_bottom_repo_name">16dp</dimen>
+    <dimen name="repo_name_margin_top">6dp</dimen>
+    <dimen name="error_title_top_margin">24dp</dimen>
+    <dimen name="error_description_top_margin">8dp</dimen>
+    <dimen name="retry_height">48dp</dimen>
+    <dimen name="retry_margin">16dp</dimen>
+</resources>
